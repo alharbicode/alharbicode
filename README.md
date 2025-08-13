@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alharbi</h1>
 <h3 align="center">Software Developer | Flutter & .NET Enthusiast | Building useful stuff</h3>
+[Uploading googleafab44a105055f0c.html…]()google-site-verification: googleafab44a105055f0c.html
 
 - 🌱 I’m currently working on Smart Literacy App, Car Rental System, and AI Tools
 - 🧠 Learning Flutter, ASP.NET Core, and AI integration
